@@ -9,3 +9,16 @@ foi abordado sobre as seguintes estruturas de dados:
 
 <h2>FILAS</H2>
 <img src="/telas/fila.png" width="30%"></img>
+
+<h2>LISTAS</H2>
+<img src="/telas/lista.png" width="30%"></img>
+
+<h2>MATRIZ</H2>
+<img src="/telas/matriz.png" width="30%"></img>
+
+<h2>PILHA</H2>
+<img src="/telas/pilha.png" width="30%"></img>
+
+<h2>VETOR E MATRIZ</H2>
+<img src="/telas/vetor_e_matriz.png" width="30%"></img>
+
