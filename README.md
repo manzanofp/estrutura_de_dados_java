@@ -8,4 +8,4 @@ foi abordado sobre as seguintes estruturas de dados:
 <img src="/telas/array.png" width="30%"></img>
 
 <h2>FILAS</H2>
-<img src="/telas/filas.png" width="30%"></img>
+<img src="/telas/fila.png" width="30%"></img>
