@@ -14,7 +14,7 @@ foi abordado sobre as seguintes estruturas de dados:
 <img src="/telas/lista.png" width="30%"></img>
 
 <h2>MATRIZ</H2>
-<img src="/telas/matriz.png" width="30%"></img>
+<img src="/telas/Matriz.png" width="30%"></img>
 
 <h2>PILHA</H2>
 <img src="/telas/pilha.png" width="30%"></img>
