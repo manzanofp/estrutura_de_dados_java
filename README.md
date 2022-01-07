@@ -6,3 +6,6 @@ foi abordado sobre as seguintes estruturas de dados:
 
 <h2>ARRAYS</H2>
 <img src="/telas/array.png" width="30%"></img>
+
+<h2>FILAS</H2>
+<img src="/telas/filas.png" width="30%"></img>
